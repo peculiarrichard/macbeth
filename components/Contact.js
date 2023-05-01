@@ -99,7 +99,7 @@ const Contact = () => {
                 stay updated with our newsletter{" "}
               </p>
               <form className="flex sm:flex-col" onSubmit={newsletter}>
-                <label for="email"></label>
+                <label htmlFor="email"></label>
                 <input
                   type="email"
                   id="email"

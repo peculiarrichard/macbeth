@@ -27,7 +27,7 @@ const Blog = () => {
               and conflicts....
             </p>
             <Link
-              href=""
+              href="/blog"
               className="text-sx md:text-sm mt-2 self-center md:self-end text-blue2 underline">
               Read complete nugget for free
             </Link>
@@ -53,7 +53,7 @@ const Blog = () => {
               and conflicts....
             </p>
             <Link
-              href=""
+              href="/blog"
               className="text-sx md:text-sm mt-2 self-center md:self-end text-blue2 underline">
               Read complete nugget for free
             </Link>

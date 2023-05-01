@@ -8,7 +8,7 @@ const Pricing = () => {
   return (
     <>
       <Head>
-        <title>Macbeth | Pricing</title>
+        <title>Macbeth</title>
         <meta name="description" content="Your relationship expert" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
